@@ -2,4 +2,7 @@
   <label>
     <input name="lelaki" type="checkbox" id="lelaki" value="lelaki" />
     lelaki</label>
+	<label>
+    <input name="lelaki" type="checkbox" id="lelaki" value="lelaki" />
+    lelaki</label>
 </form>
